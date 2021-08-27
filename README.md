@@ -23,10 +23,10 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://icons8.com/icon/59971/jsp"> <img src="https://img.icons8.com/nolan/48/jsp.png"/></a>
-    <a href="https://icons8.com/icon/13955/stack-overflow"> <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-    <a href="https://icons8.com/icon/QFcVqyh6lBh6/tomcat"> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> </a>
-    <a href="https://icons8.com/icon/w1uD6vtDitjr/java-eclipse"> <img src="https://img.icons8.com/ios-filled/48/000000/java-eclipse.png"/></a>
+    <a href="https://simple.wikipedia.org/wiki/Jakarta_Server_Pages"> <img src="https://img.icons8.com/nolan/48/jsp.png"/></a>
+    <a href="https://stackoverflow.com/"> <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+    <a href="http://tomcat.apache.org/"> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> </a>
+    <a href="https://www.eclipse.org/"> <img src="https://img.icons8.com/ios-filled/48/000000/java-eclipse.png"/></a>
    </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
