@@ -51,9 +51,7 @@
 
 <br/>
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sammulla47&bg_color=636363&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a href="https://github.com/sammulla47/github-readme-activity-graph"><img alt="Sameer Mulla Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sammulla47&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<iframe>https://github-readme-activity-graph.vercel.app/graph?username=sammulla47&bg_color=636363&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph</iframe>
 <br/>
 <br/>
 
