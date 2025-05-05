@@ -51,8 +51,8 @@
 
 <br/>
 <br/>
-<iframe src="https://github-readme-activity-graph.vercel.app/graph?username=sammulla47&bg_color=636363&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
-  width="100%" height="400" frameborder="0" title="GitHub Activity Graph"></iframe>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammulla47&bg_color=636363&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 <br/>
 <br/>
